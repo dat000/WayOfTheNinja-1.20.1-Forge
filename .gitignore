@@ -1,7 +1,9 @@
+# Archivos de caché y compilación de Gradle
 .gradle/
 build/
-run/
-out/
 bin/
+
+# Archivos específicos del IDE (opcional, pero recomendado para IntelliJ)
 .idea/
 *.iml
+run/
