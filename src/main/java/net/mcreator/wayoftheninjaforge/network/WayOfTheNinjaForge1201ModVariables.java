@@ -121,6 +121,8 @@ public class WayOfTheNinjaForge1201ModVariables {
 			clone.talent_15_equiped = original.talent_15_equiped;
 			clone.debug_mode = original.debug_mode;
 			clone.dodge_cd = original.dodge_cd;
+			clone.dodge_cd_ticks = original.dodge_cd_ticks;
+			clone.dodge_cd_duration = original.dodge_cd_duration;
 			clone.chakra_is_regenerating = original.chakra_is_regenerating;
 			clone.character_name = original.character_name;
 			clone.clan = original.clan;
@@ -352,6 +354,8 @@ public class WayOfTheNinjaForge1201ModVariables {
 		public double talent_15_equiped = 0;
 		public boolean debug_mode = false;
 		public boolean dodge_cd = false;
+		public int dodge_cd_ticks = 0;
+		public int dodge_cd_duration = 60;
 		public boolean chakra_is_regenerating = false;
 		public String character_name = "\"\"";
 		public double clan = 0;
@@ -405,6 +409,8 @@ public class WayOfTheNinjaForge1201ModVariables {
 			nbt.putDouble("talent_15_equiped", talent_15_equiped);
 			nbt.putBoolean("debug_mode", debug_mode);
 			nbt.putBoolean("dodge_cd", dodge_cd);
+			nbt.putInt("dodge_cd_ticks", dodge_cd_ticks);
+			nbt.putInt("dodge_cd_duration", dodge_cd_duration);
 			nbt.putBoolean("chakra_is_regenerating", chakra_is_regenerating);
 			nbt.putString("character_name", character_name);
 			nbt.putDouble("clan", clan);
@@ -461,6 +467,8 @@ public class WayOfTheNinjaForge1201ModVariables {
 			talent_15_equiped = nbt.getDouble("talent_15_equiped");
 			debug_mode = nbt.getBoolean("debug_mode");
 			dodge_cd = nbt.getBoolean("dodge_cd");
+			dodge_cd_ticks = nbt.getInt("dodge_cd_ticks");
+			dodge_cd_duration = nbt.getInt("dodge_cd_duration");
 			chakra_is_regenerating = nbt.getBoolean("chakra_is_regenerating");
 			character_name = nbt.getString("character_name");
 			clan = nbt.getDouble("clan");
