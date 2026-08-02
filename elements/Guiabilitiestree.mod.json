@@ -1,0 +1,143 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "button",
+        "data": {
+          "name": "button_fireball",
+          "text": "Fireball",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Talent151selected"
+          },
+          "displayCondition": {
+            "name": "Checkcharacterlevel15more"
+          },
+          "width": 67,
+          "height": 20,
+          "x": 132,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_health",
+          "text": "Health",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Talent152selected"
+          },
+          "displayCondition": {
+            "name": "Checkcharacterlevel15more"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 195,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_speed",
+          "text": "Speed",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Talent153selected"
+          },
+          "displayCondition": {
+            "name": "Checkcharacterlevel15more"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 249,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_15",
+          "text": {
+            "fixedValue": "15"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 105,
+          "y": 44,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_25",
+          "text": {
+            "fixedValue": "25"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 105,
+          "y": 80,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_45",
+          "text": {
+            "fixedValue": "45"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 105,
+          "y": 116,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_60",
+          "text": {
+            "fixedValue": "60"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 105,
+          "y": 152,
+          "locked": false
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

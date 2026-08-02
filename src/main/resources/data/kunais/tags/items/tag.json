@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "way_of_the_ninja_forge_1_20_1:kunai_standartitem",
+    "way_of_the_ninja_forge_1_20_1:kunai_training_item",
+    "way_of_the_ninja_forge_1_20_1:kunai_bomba_item",
+    "way_of_the_ninja_forge_1_20_1:kunai_multi_bomba_item"
+  ]
+}

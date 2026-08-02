@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/wall_1slab"
+    },
+    "type=top": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/wall_1slab_top"
+    },
+    "type=double": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/wall_1slab_full"
+    }
+  }
+}

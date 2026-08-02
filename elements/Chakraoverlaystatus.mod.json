@@ -1,0 +1,256 @@
+{
+  "_fv": 73,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_0.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Chakrabarempty"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar1"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar2"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar3"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar4"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar5"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar6"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar7"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar8"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar9"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar10"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar11"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar12"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar13"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar14"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar15"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "chakra_status_16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Displaychakrabar16"
+          },
+          "anchorPoint": "BOTTOM_CENTER",
+          "x": 204,
+          "y": 188,
+          "locked": true
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

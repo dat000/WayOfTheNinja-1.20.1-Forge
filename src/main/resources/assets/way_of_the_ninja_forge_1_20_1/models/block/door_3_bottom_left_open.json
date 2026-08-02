@@ -1,0 +1,9 @@
+{
+  "parent": "block/door_bottom_left_open",
+  "textures": {
+    "particle": "way_of_the_ninja_forge_1_20_1:block/door_3_downside",
+    "bottom": "way_of_the_ninja_forge_1_20_1:block/door_3_downside",
+    "top": "way_of_the_ninja_forge_1_20_1:block/door_3_upside"
+  },
+  "render_type": "translucent"
+}

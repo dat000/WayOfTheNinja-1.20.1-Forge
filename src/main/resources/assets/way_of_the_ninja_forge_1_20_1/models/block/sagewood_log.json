@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "up": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "north": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "east": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "south": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "west": "way_of_the_ninja_forge_1_20_1:block/sagewood_log",
+    "particle": "way_of_the_ninja_forge_1_20_1:block/sagewood_log"
+  },
+  "render_type": "solid"
+}

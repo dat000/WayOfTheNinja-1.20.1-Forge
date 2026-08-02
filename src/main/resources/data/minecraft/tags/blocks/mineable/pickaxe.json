@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "way_of_the_ninja_forge_1_20_1:wall_5button",
+    "way_of_the_ninja_forge_1_20_1:wall_5wall",
+    "way_of_the_ninja_forge_1_20_1:wall_5trapdoor",
+    "way_of_the_ninja_forge_1_20_1:wall_5pressureplate",
+    "way_of_the_ninja_forge_1_20_1:wall_5fence",
+    "way_of_the_ninja_forge_1_20_1:wall_5stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_5slab",
+    "way_of_the_ninja_forge_1_20_1:wall_4button",
+    "way_of_the_ninja_forge_1_20_1:wall_4wall",
+    "way_of_the_ninja_forge_1_20_1:wall_4trapdoor",
+    "way_of_the_ninja_forge_1_20_1:wall_4pressureplate",
+    "way_of_the_ninja_forge_1_20_1:wall_4fence",
+    "way_of_the_ninja_forge_1_20_1:wall_4stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_4slab",
+    "way_of_the_ninja_forge_1_20_1:wall_5",
+    "way_of_the_ninja_forge_1_20_1:wall_4"
+  ]
+}

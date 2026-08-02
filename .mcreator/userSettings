@@ -1,0 +1,15 @@
+{
+  "workspacePanelIconSize": "LARGE",
+  "workspacePanelSortType": "TYPE",
+  "workspacePanelSortAscending": false,
+  "projectBrowserSplitPos": 156,
+  "projectBrowserState": {
+    "expandedPaths": [
+      "[, wayoftheninja]",
+      "[, wayoftheninja, Resources (Gradle)]",
+      "[, wayoftheninja, Resources (Gradle), C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets]",
+      "[, wayoftheninja, Resources (Gradle), C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets, C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets\\way_of_the_ninja_forge_1_20_1]",
+      "[, wayoftheninja, Resources (Gradle), C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets, C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets\\way_of_the_ninja_forge_1_20_1, C:\\Users\\Keanu Reaves\\MCreatorWorkspaces\\way_of_the_ninja_forge_1_20_1\\src\\main\\resources\\assets\\way_of_the_ninja_forge_1_20_1\\player_animation]"
+    ]
+  }
+}

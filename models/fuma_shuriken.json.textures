@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "fuma_shuriken_texture"
+      },
+      "name": "default"
+    }
+  }
+}

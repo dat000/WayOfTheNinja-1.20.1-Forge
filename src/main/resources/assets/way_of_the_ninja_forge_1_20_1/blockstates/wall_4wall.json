@@ -1,0 +1,90 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "up": "true"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall_post"
+      }
+    },
+    {
+      "when": {
+        "north": "low"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "low"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "low"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "low"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "north": "tall"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall_side_tall",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "tall"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall_side_tall",
+        "y": 90,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "tall"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall_side_tall",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "tall"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_4wall_side_tall",
+        "y": 270,
+        "uvlock": true
+      }
+    }
+  ]
+}

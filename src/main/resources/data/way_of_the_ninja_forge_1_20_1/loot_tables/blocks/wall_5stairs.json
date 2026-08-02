@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "way_of_the_ninja_forge_1_20_1:blocks/wall_5stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "way_of_the_ninja_forge_1_20_1:wall_5stairs"
+        }
+      ]
+    }
+  ]
+}

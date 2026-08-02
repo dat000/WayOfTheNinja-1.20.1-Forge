@@ -1,0 +1,8 @@
+{
+  "parent": "way_of_the_ninja_forge_1_20_1:custom/puppet",
+  "textures": {
+    "0": "way_of_the_ninja_forge_1_20_1:block/puppet_texture",
+    "missing": "way_of_the_ninja_forge_1_20_1:block/puppet_texture",
+    "particle": "way_of_the_ninja_forge_1_20_1:item/puppet"
+  }
+}

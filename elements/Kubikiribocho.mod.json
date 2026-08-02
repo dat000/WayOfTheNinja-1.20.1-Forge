@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "kubikiribocho",
+    "customModelName": "kubikiribocho:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Kubikiribocho",
+    "specialInformation": {
+      "fixedValue": [
+        "§6\"One of the Seven Legendary Swords. Repairs itself with blood. Wielded by Zabuza Momochi.\""
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:WayOfTheNinjaTab"
+      }
+    ],
+    "efficiency": 4.0,
+    "attackSpeed": 0.8,
+    "enchantability": 2,
+    "damageVsEntity": 24.0,
+    "usageCount": 3200,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

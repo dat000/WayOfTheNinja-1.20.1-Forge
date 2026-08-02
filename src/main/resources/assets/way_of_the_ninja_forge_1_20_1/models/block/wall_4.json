@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "up": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "north": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "east": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "south": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "west": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "particle": "way_of_the_ninja_forge_1_20_1:block/wall_block_4"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "way_of_the_ninja_forge_1_20_1:custom/tagexplosive",
+  "textures": {
+    "0": "way_of_the_ninja_forge_1_20_1:block/tag_texture",
+    "particle": "way_of_the_ninja_forge_1_20_1:item/tag"
+  }
+}

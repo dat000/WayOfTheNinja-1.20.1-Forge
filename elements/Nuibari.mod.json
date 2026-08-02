@@ -1,0 +1,37 @@
+{
+  "_fv": 73,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 1,
+    "blockingRenderType": 0,
+    "texture": "nuibari",
+    "customModelName": "nuibari:default",
+    "blockingModelName": "Normal blocking",
+    "name": "Nuibari",
+    "specialInformation": {
+      "fixedValue": [
+        "§6\"One of the Seven Legendary Swords. Pierces and stitches foes. Wielded by Kushimaru Kuriarare.\""
+      ]
+    },
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:WayOfTheNinjaTab"
+      }
+    ],
+    "efficiency": 4.0,
+    "attackSpeed": 2.4,
+    "enchantability": 2,
+    "damageVsEntity": 14.0,
+    "usageCount": 2,
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "repairItems": [],
+    "immuneToFire": false,
+    "blockDropsTier": "WOOD",
+    "blocksAffected": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

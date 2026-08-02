@@ -1,0 +1,46 @@
+{
+  "_fv": 73,
+  "_type": "overlay",
+  "definition": {
+    "priority": "HIGHEST",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "way_of_the_ninja_logo_1.png",
+          "use1Xscale": true,
+          "anchorPoint": "TOP_CENTER",
+          "x": 69,
+          "y": 62,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_alpha_001",
+          "text": {
+            "fixedValue": "Alpha 0.0.2"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_CENTER",
+          "x": 303,
+          "y": 98,
+          "locked": true
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "MainMenu",
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/wall_1pressureplate"
+    },
+    "powered=true": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/wall_1pressureplate_down"
+    }
+  }
+}

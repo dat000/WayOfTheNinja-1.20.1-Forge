@@ -1,0 +1,10 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "particle": "way_of_the_ninja_forge_1_20_1:block/wall_block_1",
+    "bottom": "way_of_the_ninja_forge_1_20_1:block/wall_block_1",
+    "top": "way_of_the_ninja_forge_1_20_1:block/wall_block_1",
+    "side": "way_of_the_ninja_forge_1_20_1:block/wall_block_1"
+  },
+  "render_type": "solid"
+}

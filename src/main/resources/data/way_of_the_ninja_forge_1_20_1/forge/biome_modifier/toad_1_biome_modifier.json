@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_spawns",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "spawners": {
+    "type": "way_of_the_ninja_forge_1_20_1:toad_1",
+    "weight": 20,
+    "minCount": 4,
+    "maxCount": 4
+  }
+}

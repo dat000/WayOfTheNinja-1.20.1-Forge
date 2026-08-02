@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_2fence_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_2fence",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_2fence",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_2fence",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "way_of_the_ninja_forge_1_20_1:block/wall_2fence",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

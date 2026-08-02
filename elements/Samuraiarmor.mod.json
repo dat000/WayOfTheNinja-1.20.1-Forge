@@ -1,0 +1,100 @@
+{
+  "_fv": 73,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "samurai_helmet",
+    "enableBody": true,
+    "textureBody": "samurai_chestplate",
+    "enableLeggings": true,
+    "textureLeggings": "samurai_leggins",
+    "enableBoots": true,
+    "textureBoots": "samurai_boots",
+    "creativeTabs": [
+      {
+        "value": "CUSTOM:WayOfTheNinjaTab"
+      }
+    ],
+    "armorTextureFile": "default_preset_armor",
+    "helmetName": "Samurai Helmet",
+    "bodyName": "Samurai Chestplate",
+    "leggingsName": "Samurai Leggings",
+    "bootsName": "Samurai Boots",
+    "helmetSpecialInformation": {
+      "fixedValue": []
+    },
+    "bodySpecialInformation": {
+      "fixedValue": []
+    },
+    "leggingsSpecialInformation": {
+      "fixedValue": []
+    },
+    "bootsSpecialInformation": {
+      "fixedValue": []
+    },
+    "helmetModelName": "Modelsamurai_helmet",
+    "helmetModelPart": "samurai_helmet",
+    "helmetModelTexture": "samurai_helmet_texture.png",
+    "bodyModelName": "Modelsamurai_chestplate",
+    "bodyModelPart": "samurai_chestplate",
+    "armsModelPartL": "left_arm",
+    "armsModelPartR": "right_arm",
+    "bodyModelTexture": "samurai_chestplate_texture.png",
+    "leggingsModelName": "Modelsamurai_leggins",
+    "leggingsModelPartL": "left",
+    "leggingsModelPartR": "right",
+    "leggingsModelTexture": "samurai_leggins_texture.png",
+    "bootsModelName": "Modelsamurai_boots",
+    "bootsModelPartL": "l",
+    "bootsModelPartR": "r",
+    "bootsModelTexture": "samurai_boots_texture.png",
+    "helmetItemRenderType": 0,
+    "helmetItemCustomModelName": "Normal",
+    "bodyItemRenderType": 0,
+    "bodyItemCustomModelName": "Normal",
+    "leggingsItemRenderType": 0,
+    "leggingsItemCustomModelName": "Normal",
+    "bootsItemRenderType": 0,
+    "bootsItemCustomModelName": "Normal",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "helmetGlowCondition": {
+      "fixedValue": false
+    },
+    "bodyGlowCondition": {
+      "fixedValue": false
+    },
+    "leggingsGlowCondition": {
+      "fixedValue": false
+    },
+    "bootsGlowCondition": {
+      "fixedValue": false
+    },
+    "helmetPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bodyPiglinNeutral": {
+      "fixedValue": false
+    },
+    "leggingsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "bootsPiglinNeutral": {
+      "fixedValue": false
+    },
+    "maxDamage": 15,
+    "damageValueHelmet": 2,
+    "damageValueBody": 6,
+    "damageValueLeggings": 5,
+    "damageValueBoots": 2,
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockbackResistance": 0.0,
+    "equipSound": {
+      "value": ""
+    },
+    "repairItems": []
+  }
+}

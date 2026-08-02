@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "way_of_the_ninja_forge_1_20_1:bee_drill_structure",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 10,
+    "separation": 4,
+    "salt": 1388952618
+  }
+}

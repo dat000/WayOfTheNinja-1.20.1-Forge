@@ -1,0 +1,332 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 176,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returncharname",
+          "text": {
+            "fixedValue": "",
+            "name": "Returncharname"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 53,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returnclanname",
+          "text": {
+            "fixedValue": "",
+            "name": "Returnclanname"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 231,
+          "y": 53,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returnvillagename",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnVillageName"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 62,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returnnaturename",
+          "text": {
+            "fixedValue": "",
+            "name": "Returnnaturename"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 89,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_characterlevelreturn",
+          "text": {
+            "fixedValue": "",
+            "name": "Characterlevelreturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 107,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_characterexpreturn",
+          "text": {
+            "fixedValue": "",
+            "name": "Characterexpreturn"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 222,
+          "y": 107,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_characterchakraattributeret",
+          "text": {
+            "fixedValue": "",
+            "name": "Charreturnattributepoints"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 116,
+          "locked": true
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_close",
+          "text": "close",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Closebuttongui"
+          },
+          "width": 51,
+          "height": 20,
+          "x": 357,
+          "y": 215,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bg_2.png",
+          "use1Xscale": true,
+          "x": 6,
+          "y": 17,
+          "locked": true
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "scale": 80,
+          "rotationX": 0,
+          "followMouseMovement": true,
+          "x": 114,
+          "y": 161,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_char_attribute_forti",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCharAttributeFortitude"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 125,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_char_attribute_stren",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCharAttributeStrength"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 134,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_char_attribute_agili",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCharAttributeAgility"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 143,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_char_attribute_intel",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCharAttributeIntellect"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 152,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_return_char_attribute_chakr",
+          "text": {
+            "fixedValue": "",
+            "name": "ReturnCharAttributeChakra"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 186,
+          "y": 161,
+          "locked": true
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_finishchar",
+          "text": "finishchar",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "Finishcharbutton"
+          },
+          "width": 77,
+          "height": 20,
+          "x": 276,
+          "y": 215,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "levelupattributebutton.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 125,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "levelupattributebutton.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 134,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "levelupattributebutton.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 143,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "levelupattributebutton.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 152,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "levelupattributebutton.png",
+          "use1Xscale": true,
+          "x": 267,
+          "y": 161,
+          "locked": true
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

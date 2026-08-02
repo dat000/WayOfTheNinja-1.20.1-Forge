@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "way_of_the_ninja_forge_1_20_1:gama_no_kuni_biome",
+  "features": "way_of_the_ninja_forge_1_20_1:gama_no_kuni_feature_rock",
+  "step": "surface_structures"
+}

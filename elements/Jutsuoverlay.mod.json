@@ -1,0 +1,74 @@
+{
+  "_fv": 73,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "jutsu_selected_preview.png",
+          "use1Xscale": false,
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 306,
+          "y": 221,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "fireball_jutsu_preview.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Talent151equiped"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 306,
+          "y": 221,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "heart_preview.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Talent152equiped"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 306,
+          "y": 221,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "boots_sprint_preview.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Talent153equiped"
+          },
+          "anchorPoint": "BOTTOM_RIGHT",
+          "x": 306,
+          "y": 220,
+          "locked": true
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "Displayjutsuoverlay"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

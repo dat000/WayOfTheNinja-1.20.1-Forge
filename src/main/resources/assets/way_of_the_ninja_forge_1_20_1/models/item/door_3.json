@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "way_of_the_ninja_forge_1_20_1:item/door_green"
+  },
+  "render_type": "translucent"
+}

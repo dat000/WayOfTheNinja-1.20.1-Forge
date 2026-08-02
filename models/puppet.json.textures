@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "puppet_texture",
+        "missing": "puppet_texture"
+      },
+      "name": "default"
+    }
+  }
+}

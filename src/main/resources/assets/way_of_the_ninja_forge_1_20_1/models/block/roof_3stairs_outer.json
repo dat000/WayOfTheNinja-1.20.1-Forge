@@ -1,0 +1,10 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "particle": "way_of_the_ninja_forge_1_20_1:block/roof_block_3",
+    "bottom": "way_of_the_ninja_forge_1_20_1:block/roof_block_3",
+    "top": "way_of_the_ninja_forge_1_20_1:block/roof_block_3",
+    "side": "way_of_the_ninja_forge_1_20_1:block/roof_block_3"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,366 @@
+{
+  "_fv": 73,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 400,
+    "height": 166,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow2",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "x": 0,
+          "y": 0,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_next_button",
+          "image": "next_button.png",
+          "hoveredImage": "next_hover_button.png",
+          "onClick": {
+            "name": "Nextbutton"
+          },
+          "displayCondition": {
+            "name": "Visibilitybuttontopage2"
+          },
+          "x": 339,
+          "y": 170,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonbodytypeback"
+          },
+          "x": 227,
+          "y": 51,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonbodytypenext"
+          },
+          "x": 256,
+          "y": 51,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow1",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonskintypeback"
+          },
+          "x": 227,
+          "y": 71,
+          "locked": true
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bg.png",
+          "use1Xscale": true,
+          "x": 15,
+          "y": 17,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow1",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonskintypenext"
+          },
+          "x": 256,
+          "y": 71,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow3",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonhairtypeback"
+          },
+          "x": 227,
+          "y": 102,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow2",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonhairtypenext"
+          },
+          "x": 256,
+          "y": 102,
+          "locked": true
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow4",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonhaircolorback"
+          },
+          "x": 227,
+          "y": 123,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow3",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttonhaircolornext"
+          },
+          "x": 256,
+          "y": 123,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow5",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttoneyestypeback"
+          },
+          "x": 315,
+          "y": 50,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow4",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttoneyestypenext"
+          },
+          "x": 344,
+          "y": 50,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow6",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "onClick": {
+            "name": "Buttoneyescolorback"
+          },
+          "x": 315,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow5",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "onClick": {
+            "name": "Buttoneyescolornext"
+          },
+          "x": 344,
+          "y": 71,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_left_arrow7",
+          "image": "left_arrow.png",
+          "hoveredImage": "left_hover_arrow.png",
+          "x": 315,
+          "y": 103,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_right_arrow6",
+          "image": "right_arrow.png",
+          "hoveredImage": "right_hover_arrow.png",
+          "x": 344,
+          "y": 103,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_rotate_left_arrow",
+          "image": "rotate_left_arrow.png",
+          "hoveredImage": "rotate_hover_left_arrow.png",
+          "onClick": {
+            "name": "Buttonrotateleft"
+          },
+          "x": 87,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_rotate_right_arrow",
+          "image": "rotate_right_arrow.png",
+          "hoveredImage": "rotate_hover_right_arrow.png",
+          "onClick": {
+            "name": "Buttonrotateright"
+          },
+          "x": 159,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "displayCondition": {
+            "name": "Leftviewcharacterdisplay"
+          },
+          "scale": 70,
+          "rotationX": -85,
+          "followMouseMovement": false,
+          "x": 123,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "displayCondition": {
+            "name": "Halfleftviewcharacterdisplay"
+          },
+          "scale": 70,
+          "rotationX": -45,
+          "followMouseMovement": false,
+          "x": 123,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "displayCondition": {
+            "name": "Rightviewcharacterdisplay"
+          },
+          "scale": 70,
+          "rotationX": 85,
+          "followMouseMovement": false,
+          "x": 123,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "displayCondition": {
+            "name": "Halfrightviewcharacterdisplay"
+          },
+          "scale": 70,
+          "rotationX": 45,
+          "followMouseMovement": false,
+          "x": 123,
+          "y": 161,
+          "locked": false
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "displayCondition": {
+            "name": "Frontviewcharacterdisplay"
+          },
+          "scale": 70,
+          "rotationX": 0,
+          "followMouseMovement": false,
+          "x": 123,
+          "y": 161,
+          "locked": false
+        }
+      }
+    ],
+    "onTick": {
+      "name": "Playernamefieldsave"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

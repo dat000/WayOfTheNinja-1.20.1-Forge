@@ -1,0 +1,9 @@
+{
+  "_fv": 73,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "B",
+    "keyBindingName": "Transformation 3",
+    "keyBindingCategoryKey": "way_of_the_ninja"
+  }
+}

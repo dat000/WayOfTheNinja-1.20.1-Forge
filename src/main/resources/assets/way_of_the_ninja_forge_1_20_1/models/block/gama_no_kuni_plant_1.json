@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "minecraft:block/warped_fungus",
+    "particle": "minecraft:block/warped_fungus"
+  },
+  "render_type": "cutout"
+}

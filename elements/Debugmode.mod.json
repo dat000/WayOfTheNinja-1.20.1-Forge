@@ -1,0 +1,315 @@
+{
+  "_fv": 73,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_global_cooldown_ticks",
+          "text": {
+            "fixedValue": "Global Cooldown Ticks:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 222,
+          "y": 17,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returngcdlabel",
+          "text": {
+            "fixedValue": "",
+            "name": "Returngcdlabel"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 348,
+          "y": 17,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_global_cooldown_seconds",
+          "text": {
+            "fixedValue": "Global Cooldown Seconds:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 222,
+          "y": 26,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returnsecondsgcdlabel",
+          "text": {
+            "fixedValue": "",
+            "name": "Returnsecondsgcdlabel"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 348,
+          "y": 26,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_chakra",
+          "text": {
+            "fixedValue": "Chakra %:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 222,
+          "y": 35,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_chakra_value",
+          "text": {
+            "fixedValue": "Chakra Value:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 222,
+          "y": 44,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_chakrabarnumdisplay",
+          "text": {
+            "fixedValue": "",
+            "name": "Chakrabarnumdisplay"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 348,
+          "y": 44,
+          "locked": true
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_displaychakrapercentage",
+          "text": {
+            "fixedValue": "",
+            "name": "Displaychakrapercentage"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_RIGHT",
+          "x": 348,
+          "y": 35,
+          "locked": true
+        }
+      },
+      {
+        "type": "entitymodel",
+        "data": {
+          "entityModel": {
+            "name": "Displaycharacterentity"
+          },
+          "scale": 30,
+          "rotationX": 0,
+          "followMouseMovement": false,
+          "anchorPoint": "TOP_RIGHT",
+          "x": 375,
+          "y": 125,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_apreta_el_numpad8_wachin_para_de",
+          "text": {
+            "fixedValue": "numPad8 wachin toggle debugMode"
+          },
+          "color": {
+            "value": -65479,
+            "falpha": 0.0
+          },
+          "anchorPoint": "TOP_LEFT",
+          "x": 222,
+          "y": 8,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_character_name",
+          "text": {
+            "fixedValue": "Character Name: "
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 222,
+          "y": 98,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_character_level",
+          "text": {
+            "fixedValue": "Character Level:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 222,
+          "y": 107,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_character_exp",
+          "text": {
+            "fixedValue": "Character Exp:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 222,
+          "y": 116,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_returncharname",
+          "text": {
+            "fixedValue": "",
+            "name": "Returncharname"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 312,
+          "y": 98,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_characterlevelreturn",
+          "text": {
+            "fixedValue": "",
+            "name": "Characterlevelreturn"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 312,
+          "y": 107,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_proc_characterexpreturn",
+          "text": {
+            "fixedValue": "",
+            "name": "Characterexpreturn"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 312,
+          "y": 116,
+          "locked": false
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_character_skin",
+          "text": {
+            "fixedValue": "Character Skin:"
+          },
+          "color": {
+            "value": -65536,
+            "falpha": 0.0
+          },
+          "anchorPoint": "CENTER_RIGHT",
+          "x": 222,
+          "y": 71,
+          "locked": false
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "DebugOverlayCondition"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

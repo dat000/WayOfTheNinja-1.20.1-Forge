@@ -1,0 +1,26 @@
+{
+  "shadow_of_the_blocked_leaf": {
+    "sounds": [
+      {
+        "name": "way_of_the_ninja_forge_1_20_1:shadows_of_the_blocked_leaf",
+        "stream": true
+      }
+    ]
+  },
+  "chakra_surge": {
+    "sounds": [
+      {
+        "name": "way_of_the_ninja_forge_1_20_1:minecraft_world_song",
+        "stream": true
+      }
+    ]
+  },
+  "shadows_of_konoha": {
+    "sounds": [
+      {
+        "name": "way_of_the_ninja_forge_1_20_1:minecraft_world_song_1",
+        "stream": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "way_of_the_ninja_forge_1_20_1:wall_5stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_4stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_3stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_2stairs",
+    "way_of_the_ninja_forge_1_20_1:wall_1stairs",
+    "way_of_the_ninja_forge_1_20_1:roof_3stairs",
+    "way_of_the_ninja_forge_1_20_1:roof_2stairs",
+    "way_of_the_ninja_forge_1_20_1:roof_1stairs"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "way_of_the_ninja_forge_1_20_1:custom/chokuto",
+  "textures": {
+    "0": "way_of_the_ninja_forge_1_20_1:block/chokuto_texture",
+    "particle": "way_of_the_ninja_forge_1_20_1:item/chokuto"
+  }
+}

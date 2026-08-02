@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:moss_block",
+    "minecraft:mossy_cobblestone",
+    "minecraft:grass_block"
+  ]
+}

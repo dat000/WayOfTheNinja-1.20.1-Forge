@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "kiba_swords_texture"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "particle": "way_of_the_ninja_forge_1_20_1:block/wall_block_5",
+    "texture": "way_of_the_ninja_forge_1_20_1:block/wall_block_5"
+  },
+  "render_type": "solid"
+}

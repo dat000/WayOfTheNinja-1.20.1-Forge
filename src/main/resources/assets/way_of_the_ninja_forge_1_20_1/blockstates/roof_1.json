@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/roof_1"
+    },
+    "facing=east": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/roof_1",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/roof_1",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "way_of_the_ninja_forge_1_20_1:block/roof_1",
+      "y": 270
+    }
+  }
+}

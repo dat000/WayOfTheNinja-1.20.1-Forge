@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "way_of_the_ninja_forge_1_20_1:block/wall_block_4",
+    "particle": "way_of_the_ninja_forge_1_20_1:block/wall_block_4"
+  },
+  "render_type": "solid"
+}

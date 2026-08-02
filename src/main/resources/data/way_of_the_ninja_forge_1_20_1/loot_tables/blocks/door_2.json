@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "way_of_the_ninja_forge_1_20_1:blocks/door_2",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "way_of_the_ninja_forge_1_20_1:door_2",
+          "conditions": [
+            {
+              "block": "way_of_the_ninja_forge_1_20_1:door_2",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
